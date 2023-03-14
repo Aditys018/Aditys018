@@ -10,7 +10,7 @@ Just a techie NeRd !
 *   ✉️  You can contact me at [adityssh.in@gmail.com](mailto:adityssh.in@gmail.com)
 *   🧠  I'm learning Java
 *   🤝  I'm open to collaborating on Various Open Source Projects
-*   ⚡  Fun fact I'm Funny...
+*   ⚡  lyf
 
  ### Skills 
 <p align="left">
@@ -39,15 +39,19 @@ Just a techie NeRd !
   
  
  
+ 
+ 
  ### Statistics
 
 <b>My GitHub Stats</b>
- 
+  <img align="right" alt="Top languages" width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditys018&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditys018&show_icons=true&theme=transparent)
 
-<!-- <img align="right" alt="Top languages" width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditys018&layout=compact)](https://github.com/anuraghazra/github-readme-stats"> -->
+<!--  <img align="right" alt="Top languages" width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditys018&layout=compact)](https://github.com/anuraghazra/github-readme-stats"> -->
 
 <a href="http://www.github.com/Aditys018"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditys018&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/Aditys018"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aditys018&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
