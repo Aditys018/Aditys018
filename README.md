@@ -10,7 +10,7 @@ Just a techie NeRd !
 *   ✉️  You can contact me at [adityssh.in@gmail.com](mailto:adityssh.in@gmail.com)
 *   🧠  I'm learning Java
 *   🤝  I'm open to collaborating on Various Open Source Projects
-*   ⚡  lyf
+*   ⚡  Wyd
 
  ### Skills 
 <p align="left">
