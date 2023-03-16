@@ -7,10 +7,10 @@ Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Just a techie NeRd !
 
 *   🌍  I'm based in India
-*   ✉️  You can contact me at [adityssh.in@gmail.com](mailto:adityssh.in@gmail.com)
-*   🧠  I'm learning Java
+*   ✉️  How to reach me [adityssh.in@gmail.com](mailto:adityssh.in@gmail.com)
+*   🧠  I'm learning Java and cloud computing
 *   🤝  I'm open to collaborating on Various Open Source Projects
-*   ⚡  Wyd
+*   ⚡  WYD!?
 
  ### Skills 
 <p align="left">
