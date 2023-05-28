@@ -1,3 +1,4 @@
+
 Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aditi
 =============================================================================================================================
 
@@ -12,7 +13,7 @@ Just a techie NeRd !
 *   🤝  I'm open to collaborating on Various Open Source Projects
 *   ⚡  WYD!?
 
- ### Skills 
+<!--  ### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -38,7 +39,7 @@ Just a techie NeRd !
 <a href="https://www.linkedin.com/in/aditi-shinde" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   
  
- 
+  -->
  
  
  ### Statistics
@@ -50,10 +51,10 @@ Just a techie NeRd !
 
 <!--  <img align="right" alt="Top languages" width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditys018&layout=compact)](https://github.com/anuraghazra/github-readme-stats"> -->
 
-<a href="http://www.github.com/Aditys018"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditys018&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Aditys018"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aditys018&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
- 
+<!-- <a href="http://www.github.com/Aditys018"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditys018&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ -->
+<!-- <a href="http://www.github.com/Aditys018"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aditys018&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  -->
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditys018&theme=tokyo-night)](https://github.com/Aditys018/github-readme-activity-graph)
 
