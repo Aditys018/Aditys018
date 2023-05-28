@@ -54,9 +54,11 @@ Just a techie NeRd !
 
 
 <img align="right" alt="Top languages" width="300"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditys018&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditys018&show_icons=true&theme=tokyonight)
+<!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditys018&show_icons=true&theme=transparent)
+  -->
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditys018&theme=tokyonight&hide_border=false"/>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditys018&show_icons=true&theme=transparent)
- 
 [![Aditi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditys018&theme=tokyo-night)](https://github.com/Aditys018/github-readme-activity-graph)
 
 
@@ -64,4 +66,4 @@ Just a techie NeRd !
 
 <img align="center" alt="coding" width="1000" height="300" src="https://64.media.tumblr.com/83ab6d6c3e5e8a301c9537e24e9790f9/826a2514c6376f30-55/s1280x1920/e25d3e5edae3cdd4795c4308031b7196284f5ea2.gif">
 
-<h3 text-align="center">I keep pressing the space bar, but I'm still on the earth ^_-</h3>
+<h3 text-align="center">I keep pressing the space bar, but I'm still on earth ^_-</h3>
