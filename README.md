@@ -57,7 +57,7 @@ Just a techie NeRd !
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditys018&show_icons=true&theme=transparent)
   
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user= Aditys018&theme=tokyonight&hide_border=false"/>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditys018&theme=tokyonight&hide_border=false"/>
 
 [![Aditi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditys018&theme=tokyo-night)](https://github.com/Aditys018/github-readme-activity-graph)
 
