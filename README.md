@@ -5,7 +5,7 @@ Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/100122761/225121189-cc619cec-5f0b-40a3-9720-49c5ba17ea83.gif">
 
 
-Just a techie NeRd !
+<!-- Just a techie NeRd ! -->
 
 *   🌍  I'm based in India
 *   ✉️  How to reach me [adityssh.in@gmail.com](mailto:adityssh.in@gmail.com)
