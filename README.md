@@ -13,12 +13,6 @@ Just a techie NeRd !
 *   🤝  I'm open to collaborating on Various Open Source Projects
 *   ⚡  WYD!?
 
-
-
-
-
-
-
 <h1 align="left">SKILLS</h1>
 <div align="center">
 <p>
@@ -42,9 +36,9 @@ Just a techie NeRd !
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<!--  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
  ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
- 
+  -->
  </p>
  </div>
 
@@ -52,9 +46,6 @@ Just a techie NeRd !
  
  <p align="center" margin="50cm"> <img src="https://komarev.com/ghpvc/?username=Aditys018&label=Profile%20views&color=0e75b6&style=flat" alt="Aditys018 "  height="50" length="40" /> </p>
 
-
-<!-- <img align="right" alt="Top languages" width="300"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditys018&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
- -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditys018&show_icons=true&theme=transparent)
   
    <a href="https://github.com/Aditys018/github-readme-stats"> 
@@ -63,13 +54,16 @@ Just a techie NeRd !
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditys018&layout=compact&show_icons=true&bg_color=0d1117&hide_border=false)
  </div>
      </a>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditys018&theme=tokyonight&hide_border=false"/>
+
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditys018&theme=tokyonight&hide_border=false"/>
+
 
 [![Aditi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditys018&theme=tokyo-night)](https://github.com/Aditys018/github-readme-activity-graph)
 
 
-<!-- ![](https://capsule-render.vercel.app/api?type=waving&height=100&width=300&section=footer) -->
+ ![](https://capsule-render.vercel.app/api?type=waving&height=100&width=500&section=footer&align=center)
 
-<img align="center" alt="coding" width="1000" height="300" src="https://64.media.tumblr.com/83ab6d6c3e5e8a301c9537e24e9790f9/826a2514c6376f30-55/s1280x1920/e25d3e5edae3cdd4795c4308031b7196284f5ea2.gif">
+<!-- <img align="center" alt="coding" width="1000" height="300" src="https://64.media.tumblr.com/83ab6d6c3e5e8a301c9537e24e9790f9/826a2514c6376f30-55/s1280x1920/e25d3e5edae3cdd4795c4308031b7196284f5ea2.gif">
 
 <h3 text-align="center">I keep pressing the space bar, but I'm still on earth ^_-</h3>
+ -->
