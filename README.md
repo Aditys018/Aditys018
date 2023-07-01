@@ -45,14 +45,14 @@ Just a techie NeRd !
  
  <p align="center" margin="50cm"> <img src="https://komarev.com/ghpvc/?username=Aditys018&label=Profile%20views&color=0e75b6&style=flat" alt="Aditys018 "  height="50" length="40" /> </p>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditys018&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditys018&show_icons=true&theme=transparent)
   
    <a href="https://github.com/Aditys018/github-readme-stats"> 
   <div align="center">
        
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditys018&layout=compact&show_icons=true&bg_color=0d1117&hide_border=false)
  </div>
-     </a> -->
+     </a> 
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditys018&theme=tokyonight&hide_border=false"/>
 
