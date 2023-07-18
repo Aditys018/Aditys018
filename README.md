@@ -53,15 +53,26 @@ Just a techie NeRd !
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditys018&layout=compact&show_icons=true&bg_color=0d1117&hide_border=false)
  </div>
      </a> -->
+<table>
+<tr>
+  <td align="center">
+  <p align="center">
+    <a href="https://github.com/Aditys018">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditys018&show_icons=true&theme=tokyonight&locale=en&bg_color=0d1117&hide_border=true&layout=compact"/>
+    </a>
+    </td>
 
+  </p>
+ </tr>
+</table>
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditys018&theme=tokyonight&hide_border=false"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditys018&theme=tokyonight&hide_border=false"/>
 
 
 [![Aditi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditys018&theme=tokyo-night)](https://github.com/Aditys018/github-readme-activity-graph)
 
 
- ![](https://capsule-render.vercel.app/api?type=waving&height=100&width=500&section=footer&align=center)
+![](https://capsule-render.vercel.app/api?type=waving&height=100&width=500&section=footer&align=center)
 
 <!-- <img align="center" alt="coding" width="1000" height="300" src="https://64.media.tumblr.com/83ab6d6c3e5e8a301c9537e24e9790f9/826a2514c6376f30-55/s1280x1920/e25d3e5edae3cdd4795c4308031b7196284f5ea2.gif">
 
