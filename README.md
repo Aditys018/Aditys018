@@ -58,7 +58,7 @@ Just a techie NeRd !
   <td align="center">
   <p align="center">
     <a href="https://github.com/Aditys018">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditys018&show_icons=true&theme=tokyo-night&locale=en&bg_color=0d1117&hide_border=false&layout=compact"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditys018&show_icons=true&theme=tokyo-night&locale=en&bg_color=0d1117&hide_border=false&layout=compact"/>
     </a>
     </td>
 
@@ -66,6 +66,11 @@ Just a techie NeRd !
  </tr>
 </table>
 
+<h1 align="center">HACKERRANK BADGES</h1>
+<div align="center">
+
+ ![Hackerrank Stats](https://hackerrank-stats.vercel.app/api?username=adityssh_in)
+</div>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditys018&theme=tokyonight&hide_border=false"/>
 
 
