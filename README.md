@@ -58,7 +58,7 @@ Just a techie NeRd !
   <td align="center">
   <p align="center">
     <a href="https://github.com/Aditys018">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditys018&show_icons=true&theme=tokyonight&locale=en&bg_color=0d1117&hide_border=true&layout=compact"/>
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditys018&show_icons=true&theme=tokyo-night&locale=en&bg_color=0d1117&hide_border=false&layout=compact"/>
     </a>
     </td>
 
