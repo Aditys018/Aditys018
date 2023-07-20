@@ -2,7 +2,7 @@
 Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aditi ^_^
 =============================================================================================================================
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/100122761/225121189-cc619cec-5f0b-40a3-9720-49c5ba17ea83.gif">
+<img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/83ab6d6c3e5e8a301c9537e24e9790f9/826a2514c6376f30-55/s1280x1920/e25d3e5edae3cdd4795c4308031b7196284f5ea2.gif">
 
 
 Just a techie NeRd !
