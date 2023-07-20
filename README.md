@@ -53,6 +53,7 @@ Just a techie NeRd !
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditys018&layout=compact&show_icons=true&bg_color=0d1117&hide_border=false)
  </div>
      </a> -->
+<!--
 <table>
 <tr>
   <td align="center">
@@ -61,6 +62,7 @@ Just a techie NeRd !
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditys018&show_icons=true&theme=tokyo-night&locale=en&bg_color=0d1117&hide_border=false&layout=compact"/>
     </a>
     </td>
+    -->
 
   </p>
  </tr>
