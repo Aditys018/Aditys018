@@ -43,7 +43,7 @@ Just a techie NeRd !
 
 # 📊GITHUB STATISTICS
  
- <p align="center" margin="50cm"> <img src="https://komarev.com/ghpvc/?username=Aditys018&label=Profile%20views&color=0e75b6&style=flat" alt="Aditys018 "  height="50" length="40" /> </p>
+<p align="center" margin="50cm"> <img src="https://komarev.com/ghpvc/?username=Aditys018&label=Profile%20views&color=0e75b6&style=flat" alt="Aditys018 "  height="50" length="40" /> </p>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditys018&show_icons=true&theme=transparent)
   
