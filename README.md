@@ -53,7 +53,7 @@ Just a techie NeRd !
 
  ![Hackerrank Stats](https://hackerrank-stats.vercel.app/api?username=adityssh_in)
 </div>
-
+<!--
 <tr>
   <td align="left">
   <p align="left">
@@ -61,6 +61,7 @@ Just a techie NeRd !
       <img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditys018&show_icons=true&theme=tokyo-night&locale=en&bg_color=0d1117&hide_border=false&layout=compact"/>
     </a>
     </td>
+    -->
     
 
   </p>
