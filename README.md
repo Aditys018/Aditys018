@@ -63,9 +63,9 @@ Just a techie NeRd !
     </td>
     -->
 
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditys018&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditys018&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-    
+    -->
 
   </p>
  </tr>
