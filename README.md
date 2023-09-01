@@ -47,13 +47,13 @@ Just a techie NeRd !
 
 
 
-
+<!--
 <h1 align="center">HACKERRANK BADGES</h1>
 <div align="center">
 
  ![Hackerrank Stats](https://hackerrank-stats.vercel.app/api?username=adityssh_in)
 </div>
-<!--
+
 <tr>
   <td align="left">
   <p align="left">
