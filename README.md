@@ -5,6 +5,7 @@ Hey There! My name is Aditi ^_^
 <img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/83ab6d6c3e5e8a301c9537e24e9790f9/826a2514c6376f30-55/s1280x1920/e25d3e5edae3cdd4795c4308031b7196284f5ea2.gif">
 
 
+
 Just a techie NeRd !
 
 *   🌍  I'm based in India
@@ -37,6 +38,9 @@ Just a techie NeRd !
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+ ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+ ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+ ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
  </p>
  </div>
@@ -44,6 +48,8 @@ Just a techie NeRd !
 # 📊GITHUB STATISTICS
  
 <p align="center" margin="50cm"> <img src="https://komarev.com/ghpvc/?username=Aditys018&label=Profile%20views&color=0e75b6&style=flat" alt="Aditys018 "  height="50" length="40" /> </p>
+
+
 
 
 
@@ -71,6 +77,9 @@ Just a techie NeRd !
  </tr>
 </table>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditys018&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditys018&theme=tokyonight&hide_border=false"/>
 
 
@@ -79,7 +88,6 @@ Just a techie NeRd !
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=100&width=500&section=footer&align=center)
 
-<!-- <img align="center" alt="coding" width="1000" height="300" src="https://64.media.tumblr.com/83ab6d6c3e5e8a301c9537e24e9790f9/826a2514c6376f30-55/s1280x1920/e25d3e5edae3cdd4795c4308031b7196284f5ea2.gif">
 
-<h3 text-align="center">I keep pressing the space bar, but I'm still on earth ^_-</h3>
- -->
+
+
