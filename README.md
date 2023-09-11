@@ -8,11 +8,11 @@ Hey There! My name is Aditi ^_^
 
 Just a techie NeRd !
 
-*   🌍  I'm based in India
+*   💻  A Computer Engineering Student.
 *   ✉️  How to reach me [adityssh.in@gmail.com](mailto:adityssh.in@gmail.com)
 *   🧠  I'm learning Java and cloud computing
 *   🤝  I'm open to collaborating on Various Open Source Projects
-*   ⚡  WYD!?
+*   ⚡  FUN FACT: I don't like normal stuff -_^
 
 <h1 align="left">SKILLS</h1>
 <div align="center">
@@ -77,10 +77,14 @@ Just a techie NeRd !
  </tr>
 </table>
 
+<img align="right" alt="coding" width="350" height="350" src="https://i.pinimg.com/564x/72/9a/e5/729ae50c9b1b9a77aa50b3e4486b7b9c.jpg">
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditys018&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditys018&theme=tokyonight&hide_border=false"/>
+
 
 
 [![Aditi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditys018&theme=tokyo-night)](https://github.com/Aditys018/github-readme-activity-graph)
