@@ -77,7 +77,7 @@ Just a techie NeRd !
  </tr>
 </table>
 
-<img align="right" alt="coding" width="200" height="200" src="https://i.pinimg.com/564x/72/9a/e5/729ae50c9b1b9a77aa50b3e4486b7b9c.jpg">
+<img align="right" alt="coding" width="300" height="350" src="https://i.pinimg.com/564x/72/9a/e5/729ae50c9b1b9a77aa50b3e4486b7b9c.jpg">
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditys018&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
