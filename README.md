@@ -69,23 +69,13 @@ Just a techie NeRd !
     </td>
     -->
 
-  <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditys018&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-    -->
-
-  </p>
- </tr>
-</table>
 
 <img align="right" alt="coding" width="300" height="350" src="https://i.pinimg.com/564x/72/9a/e5/729ae50c9b1b9a77aa50b3e4486b7b9c.jpg">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditys018&layout=compact&show_icons=true&bg_color=0d1117&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditys018&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aditys018&theme=tokyonight&hide_border=false"/>
-
-
+![Readme Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditys018&theme=github-dark-blue&hide_border=false)
 
 [![Aditi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditys018&theme=tokyo-night)](https://github.com/Aditys018/github-readme-activity-graph)
 
