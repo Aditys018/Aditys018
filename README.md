@@ -1,5 +1,5 @@
 
-Hey There! My name is Aditi ^_^
+Hey There👩‍💻
 =============================================================================================================================
 
 <img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/83ab6d6c3e5e8a301c9537e24e9790f9/826a2514c6376f30-55/s1280x1920/e25d3e5edae3cdd4795c4308031b7196284f5ea2.gif">
@@ -8,10 +8,10 @@ Hey There! My name is Aditi ^_^
 
 Just a techie NeRd !
 
-*   💻  A Computer Engineering Student.
+*   💻  A Computer Science Engineer.
 *   ✉️  How to reach me [adityssh.in@gmail.com](mailto:adityssh.in@gmail.com)
-*   🧠  I'm learning Java and cloud computing
-*   🤝  I'm open to collaborating on Various Open Source Projects
+*   🧠  Execution is the real game. 
+*   🤝  Open to collaborating on Various Open Source Projects
 *   ⚡  FUN FACT: I don't like normal stuff -_^
 
 <h1 align="left">SKILLS</h1>
