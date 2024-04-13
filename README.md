@@ -3,7 +3,7 @@
 ![Hello, Aditi here](https://github.com/Aditys018/Aditys018/assets/100122761/6dccbffe-fcf5-4088-bb4a-24439a538879)
 
 
-<h1 align="left">SKILLS</h1>
+<!-- <h1 align="left">SKILLS</h1>
 <div align="center">
 <p>
 
@@ -25,16 +25,16 @@
 <!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) -->
 <!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) -->
 <!--![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
-<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) -->
+<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
  
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
- <!-- ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) -->
+ ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white
 
  </p>
- </div>  
+ </div>  -->
 
 # 📊GITHUB STATISTICS
  
@@ -69,7 +69,7 @@
     </td>
 
 
-[![Aditi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditys018&bg_color=0d1117&color=3A9BDC&line=3A9BDC&point=FFFFFF&area=true&hide_border=true)](https://github.com/Aditys018/github-readme-activity-graph)
+[![Aditi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditys018&bg_color=0d1117&color=3A9BDC&line=3A9BDC&area_color=FFFFFF&point=FFFFFF&area=true&hide_border=false)](https://github.com/Aditys018/github-readme-activity-graph)
 
 
 
