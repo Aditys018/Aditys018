@@ -72,7 +72,11 @@
     </td>
 
 
-[![Aditi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditys018&theme=tokyo-night)](https://github.com/Aditys018/github-readme-activity-graph)
+[![Aditi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditys018&bg_color=0d1117&color=3A9BDC&line=3A9BDC&point=FFFFFF&area=true&hide_border=true)](https://github.com/Aditys018/github-readme-activity-graph)
+
+
+
+<!-- [![Aditi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditys018&theme=tokyo-night)](https://github.com/Aditys018/github-readme-activity-graph) -->
 
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=100&width=500&section=footer&align=center)
