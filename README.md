@@ -1,18 +1,7 @@
 
 
-![Hello, Aditi here](https://github.com/Aditys018/Aditys018/assets/100122761/6b17b812-2e39-4bed-8af6-d41d99269a7d&width=100&height=100)
+![Hello, Aditi here](https://github.com/Aditys018/Aditys018/assets/100122761/6dccbffe-fcf5-4088-bb4a-24439a538879)
 
- <!-- <img align="right" alt="coding" width="400" src="[https://64.media.tumblr.com/83ab6d6c3e5e8a301c9537e24e9790f9/826a2514c6376f30-55/s1280x1920/e25d3e5edae3cdd4795c4308031b7196284f5ea2.gif](https://github.com/Aditys018/Aditys018/assets/100122761/6b17b812-2e39-4bed-8af6-d41d99269a7d)">
-
-
-
-Just a techie NeRd !
-
-*   💻  A Computer Science Engineer.
-*   ✉️  How to reach me [adityssh.in@gmail.com](mailto:adityssh.in@gmail.com)
-*   🧠  Execution is the real game. 
-*   🤝  Open to collaborating on Various Open Source Projects
-*   ⚡  FUN FACT: I don't like normal stuff -_^  -->
 
 <h1 align="left">SKILLS</h1>
 <div align="center">
