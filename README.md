@@ -3,6 +3,16 @@
 ![Hello, Aditi here](https://github.com/Aditys018/Aditys018/assets/100122761/6dccbffe-fcf5-4088-bb4a-24439a538879)
 
 
+# 📊GITHUB STATISTICS
+ 
+<p align="center" margin="50cm"> <img src="https://komarev.com/ghpvc/?username=Aditys018&label=Visitor's%20Count&color=0e75b6&style=flat" alt="Aditys018 "  height="50" length="40" /> </p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditys018&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditys018&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditys018&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditys018&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditys018&theme=radical&utcOffset=8)
+
+
+![](https://capsule-render.vercel.app/api?type=waving&height=100&width=500&section=footer&align=center)
+
+
 <!-- <h1 align="left">SKILLS</h1>
 <div align="center">
 <p>
@@ -36,10 +46,6 @@
  </p>
  </div>  -->
 
-# 📊GITHUB STATISTICS
- 
-<p align="center" margin="50cm"> <img src="https://komarev.com/ghpvc/?username=Aditys018&label=Visitor's%20Count&color=0e75b6&style=flat" alt="Aditys018 "  height="50" length="40" /> </p>
-
 
 <!--
 <h1 align="center">HACKERRANK BADGES</h1>
@@ -59,24 +65,23 @@
 
 
 
-<img align="right" alt="coding" width="300" height="350" src="https://i.pinimg.com/564x/72/9a/e5/729ae50c9b1b9a77aa50b3e4486b7b9c.jpg">
+<!-- <img align="right" alt="coding" width="300" height="350" src="https://i.pinimg.com/564x/72/9a/e5/729ae50c9b1b9a77aa50b3e4486b7b9c.jpg"> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditys018&layout=compact&show_icons=true&bg_color=0d1117&hide_border=false)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditys018&layout=compact&show_icons=true&bg_color=0d1117&hide_border=false) -->
 
-
+<!--
  <td colspan=2 align="center">
       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditys018&theme=github-dark-blue&hide_border=false" /></a>
     </td>
 
 
-[![Aditi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditys018&bg_color=0d1117&color=3A9BDC&line=3A9BDC&area_color=FFFFFF&point=FFFFFF&area=true&hide_border=false)](https://github.com/Aditys018/github-readme-activity-graph)
+[![Aditi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditys018&bg_color=0d1117&color=3A9BDC&line=3A9BDC&area_color=FFFFFF&point=FFFFFF&area=true&hide_border=false)](https://github.com/Aditys018/github-readme-activity-graph)  -->
 
 
 
 <!-- [![Aditi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditys018&theme=tokyo-night)](https://github.com/Aditys018/github-readme-activity-graph) -->
 
 
-![](https://capsule-render.vercel.app/api?type=waving&height=100&width=500&section=footer&align=center)
 
 
 
