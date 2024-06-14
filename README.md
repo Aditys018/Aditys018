@@ -1,5 +1,6 @@
 
 
+
 ![Hello, Aditi here](https://github.com/Aditys018/Aditys018/assets/100122761/6dccbffe-fcf5-4088-bb4a-24439a538879)
 
 
@@ -12,7 +13,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Aditys018&theme=shadow_red&hide_border=true&card_width=300&hide_total_contributions=true" alt="GitHub Streak" style="width: 300px;">
+        <img src="https://streak-stats.demolab.com?user=Aditys018&theme=shadow_red&hide_border=true&card_width=354&hide_total_contributions=true" alt="GitHub Streak" style="width: 354px;">
     </a>
     <img src="https://i.pinimg.com/564x/d6/aa/1e/d6aa1e735d4bbe0e52c2bcd7759f3422.jpg" alt="Additional Image" style="width: 300px; margin-left: 10px;">
 </div>
