@@ -1,12 +1,16 @@
 
+<div style="text-align: center;">
+    <h1>Hey There, I am Aditi ^_^</h1>
+    <p>Computer Science Engineer | Exploring Mobile Development and AI/ML ¯\_(ツ)_/¯ </p>
+</div>
 
 
-![Hello, Aditi here](https://github.com/Aditys018/Aditys018/assets/100122761/6dccbffe-fcf5-4088-bb4a-24439a538879)
 
 
-# 📊GITHUB STATISTICS
+
+## ⌨️GITHUB STATISTICS
  
-<p align="center" margin="50cm"> <img src="https://komarev.com/ghpvc/?username=Aditys018&label=Visitor's%20Count&color=0e75b6&style=flat" alt="Aditys018 "  height="50" length="40" /> </p>
+<p align="LEFT" margin="50cm"> <img src="https://komarev.com/ghpvc/?username=Aditys018&label=Visitor's%20Count&color=0e75b6&style=flat" alt="Aditys018 "  height="20" length="30" /> </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditys018&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditys018&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditys018&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditys018&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditys018&theme=radical&utcOffset=8)
 
