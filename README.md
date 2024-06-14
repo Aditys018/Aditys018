@@ -9,7 +9,18 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditys018&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditys018&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditys018&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditys018&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditys018&theme=radical&utcOffset=8)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aditys018&theme=tokyonight&hide_border=true&card_width=300&hide_total_contributions=true)](https://git.io/streak-stats)
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Aditys018&theme=shadow_red&hide_border=true&card_width=300&hide_total_contributions=true" alt="GitHub Streak" style="width: 300px;">
+    </a>
+    <img src="https://i.pinimg.com/564x/d6/aa/1e/d6aa1e735d4bbe0e52c2bcd7759f3422.jpg" alt="Additional Image" style="width: 300px; margin-left: 10px;">
+</div>
+
+
+
+
+
 
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=100&width=500&section=footer&align=center)
