@@ -5,10 +5,8 @@
 </div>
 
 
+<p align="left"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 
-
-
-## ⌨️GITHUB STATISTICS
  
 <p align="LEFT" margin="50cm"> <img src="https://komarev.com/ghpvc/?username=Aditys018&label=Visitor's%20Count&color=0e75b6&style=flat" alt="Aditys018 "  height="20" length="30" /> </p>
 
