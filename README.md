@@ -9,6 +9,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditys018&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditys018&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditys018&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditys018&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditys018&theme=radical&utcOffset=8)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aditys018&theme=tokyonight&hide_border=true&card_width=300&hide_total_contributions=true)](https://git.io/streak-stats)
+
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=100&width=500&section=footer&align=center)
 
