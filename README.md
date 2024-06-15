@@ -1,10 +1,11 @@
 
 <div style="text-align: center;">
-    <h1>Hey There, I am Aditi ^_^</h1>
-    <p>Computer Science Engineer | Exploring Mobile Development and AI/ML ¯\_(ツ)_/¯ </p>
+    <h1 style="color: #5b9179;">Hey There, I am Aditi ^_^</h1>
 </div>
 
 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE428E&background=C9FF6800&multiline=true&random=false&width=437&height=55&lines=Computer+Science+Engineer%7CExploring+Mobile+Development+and+AI%2FML+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF;+Mobile+Dev.+and+AI%2FML+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF" alt="Typing SVG" /></a>
 <p align="left"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 
  
