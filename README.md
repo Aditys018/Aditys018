@@ -7,24 +7,46 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a7aabe&background=C9FF6800&multiline=true&random=false&width=437&height=55&lines=Computer+Science+Engineer%7CExploring+Mobile+Development+and+AI%2FML+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF;+Mobile+Dev.+and+AI%2FML+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF" alt="Typing SVG" /></a>
 
+<div align="left">
+    <a href="https://abstractdataype.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-%239bfef7?style=for-the-badge&logo=google-chrome&logoColor=gray" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%239bfef7?style=for-the-badge&logo=linkedin&logoColor=gray" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/your-twitter-handle" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-%239bfef7?style=for-the-badge&logo=twitter" alt="Twitter" />
+    </a>
+</div>
 
-#### checkout my portfolio at: https://abstractdataype.netlify.app/
 
+
+
+
+
+
+
+
+
+
+
+
+<!--
 
 <p align="left"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 
  
-<!-- <p align="LEFT" margin="50cm"> <img src="https://komarev.com/ghpvc/?username=Aditys018&label=Visitor's%20Count&color=0e75b6&style=flat" alt="Aditys018 "  height="20" length="30" /> </p> -->
+ <p align="LEFT" margin="50cm"> <img src="https://komarev.com/ghpvc/?username=Aditys018&label=Visitor's%20Count&color=0e75b6&style=flat" alt="Aditys018 "  height="20" length="30" /> </p> -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditys018&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditys018&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditys018&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditys018&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditys018&theme=radical&utcOffset=8)
 
-
+<!--
 <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=Aditys018&theme=radical&hide_border=true&card_width=354&hide_total_contributions=true" alt="GitHub Streak" style="width: 354px;">
     </a>
     <img src="https://i.pinimg.com/564x/d6/aa/1e/d6aa1e735d4bbe0e52c2bcd7759f3422.jpg" alt="Additional Image" style="width: 300px; margin-left: 10px;">
-</div>
+</div>  -->
 
 
 
