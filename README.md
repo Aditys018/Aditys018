@@ -7,6 +7,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a7aabe&background=C9FF6800&multiline=true&random=false&width=437&height=55&lines=Computer+Science+Engineer%7CExploring+Mobile+Development+and+AI%2FML+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF;+Mobile+Dev.+and+AI%2FML+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF" alt="Typing SVG" /></a>
 
+_______________________________________________________________________________________________________________________
+
 <div align="left">
     <a href="https://abstractdataype.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-%239bfef7?style=for-the-badge&logo=google-chrome&logoColor=gray" alt="Portfolio" />
