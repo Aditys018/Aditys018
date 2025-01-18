@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 <div align="left">
     <a href="https://abstractdataype.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-%239bfef7?style=for-the-badge&logo=google-chrome&logoColor=gray" alt="Portfolio" />
+        <img src="https://img.shields.io/badge/Portfolio-%239bfef7?style=for-the-badge" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/aditirshinde/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%239bfef7?style=for-the-badge&logo=linkedin&logoColor=gray" alt="LinkedIn" />
