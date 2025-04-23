@@ -10,7 +10,7 @@
 _______________________________________________________________________________________________________________________
 
 <div align="left">
-    <a href="aditishinde.website" target="_blank">
+    <a href="[aditishinde.website](https://aditishinde.website/)" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-%239bfef7?style=for-the-badge" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/aditirshinde/" target="_blank">
